@@ -1,0 +1,100 @@
+
+@define-color bg0       rgba(0, 0, 0, 0.7); /* Unified background for the entire bar */
+@define-color fg0       #fbf1c7;
+@define-color accent1   #bdae93;
+@define-color accent2   #d5c4a1;
+@define-color warning   #fabd2f;
+@define-color critical  #fb4934;
+
+* {
+    font-family: "FiraCode Nerd Font";
+    font-size: 20px;
+    min-height: 20px;
+}
+
+window#waybar {
+    color: @fg0;
+    background-color: @bg0;
+    transition: background-color 0.5s;
+    margin: 20px 0px;
+    padding: 0px;
+}
+
+#waybar.top {
+    background: none;
+}
+#waybar.top > box.horizontal {
+    background: @bg0;
+    box-shadow: 0 0 4pt #11111b;
+    border-radius: 12pt;
+    margin: 6pt;
+    padding: 2pt;
+}
+
+#workspaces button {
+    background-color: transparent; /* Transparent so it blends with the unified background */
+    color: @fg0;
+    margin: 0; /* Remove margin to maintain continuity */
+    padding: 2px 5px; /* Padding for button text spacing */
+    border-radius: 0; /* No border radius for continuity */
+    transition: all 0.3s ease;
+}
+
+#workspaces button.active {
+    color: #83a598;
+}
+
+#workspaces button:hover {
+    background-color: @accent2;
+    color: #83a598;
+}
+
+#battery,
+#clock,
+#cpu,
+#memory,
+#network,
+#pulseaudio,
+#custom-temperature,
+#language,
+#window,
+#mode,
+#tray {
+    background-color: transparent; /* Transparent for the unified look */
+    color: @fg0;
+    margin: 0; /* No margin for seamless integration */
+    padding: 5px 10px; /* Adjust padding for content spacing */
+    border-radius: 0; /* Remove border radius for continuity */
+}
+
+#battery.warning,
+#cpu.warning,
+#memory.warning {
+    color: @warning;
+}
+
+#battery.critical,
+#cpu.critical,
+#memory.critical {
+    color: @critical;
+}
+
+#network {
+    color: @accent2;
+}
+
+#network.disconnected {
+    color: @critical;
+}
+
+#pulseaudio {
+    color: @accent1;
+}
+
+#pulseaudio.muted {
+    color: @critical;
+}
+
+#custom-temperature {
+    color: @warning;
+}

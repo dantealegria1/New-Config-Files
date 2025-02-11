@@ -1,0 +1,10 @@
+2025/02/11-13:16:01.228 8e23 Reusing MANIFEST /home/dante/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/11-13:16:01.229 8e23 Recovering log #59
+2025/02/11-13:16:01.290 8e23 Reusing old log /home/dante/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000059.log 
+2025/02/11-13:16:07.251 8e23 Level-0 table #64: started
+2025/02/11-13:16:07.300 8e23 Level-0 table #64: 1258865 bytes OK
+2025/02/11-13:16:07.302 8e23 Delete type=0 #59
+2025/02/11-13:16:07.385 8e98 Compacting 1@1 + 1@2 files
+2025/02/11-13:16:07.468 8e98 Generated table #65@1: 4937 keys, 850308 bytes
+2025/02/11-13:16:07.468 8e98 Compacted 1@1 + 1@2 files => 850308 bytes
+2025/02/11-13:16:07.470 8e98 compacted to: files[ 0 0 1 0 0 0 0 ]

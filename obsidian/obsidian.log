@@ -1,0 +1,212 @@
+2025-01-22 03:11:41 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-22 03:11:42 Checking for update using Github
+2025-01-22 03:11:42 Success.
+2025-01-22 03:11:42 Latest version is 1.7.7
+2025-01-22 03:11:42 App is up to date.
+2025-01-25 18:44:24 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-25 18:44:24 Checking for update using Github
+2025-01-25 18:44:25 Success.
+2025-01-25 18:44:25 Latest version is 1.7.7
+2025-01-25 18:44:25 App is up to date.
+2025-01-27 14:17:12 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-27 14:17:13 Checking for update using Github
+2025-01-27 14:17:13 Success.
+2025-01-27 14:17:13 Latest version is 1.7.7
+2025-01-27 14:17:13 App is up to date.
+2025-01-28 14:10:29 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-28 14:10:29 Checking for update using Github
+2025-01-28 14:10:30 Success.
+2025-01-28 14:10:30 Latest version is 1.7.7
+2025-01-28 14:10:30 App is up to date.
+2025-01-28 14:10:38 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-28 14:10:38 Checking for update using Github
+2025-01-28 14:10:38 Success.
+2025-01-28 14:10:38 Latest version is 1.7.7
+2025-01-28 14:10:38 App is up to date.
+2025-01-28 16:23:20 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-28 16:23:20 Checking for update using Github
+2025-01-28 16:23:29 Success.
+2025-01-28 16:23:29 Latest version is 1.7.7
+2025-01-28 16:23:29 App is up to date.
+2025-01-28 17:38:32 Checking for update using Github
+2025-01-28 17:38:32 Success.
+2025-01-28 17:38:32 Latest version is 1.7.7
+2025-01-28 17:38:32 App is up to date.
+2025-01-28 18:36:05 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-28 18:36:05 Checking for update using Github
+2025-01-28 18:36:06 Success.
+2025-01-28 18:36:06 Latest version is 1.7.7
+2025-01-28 18:36:06 App is up to date.
+2025-01-29 13:16:25 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-29 13:16:25 Checking for update using Github
+2025-01-29 13:16:26 Success.
+2025-01-29 13:16:26 Latest version is 1.7.7
+2025-01-29 13:16:26 App is up to date.
+2025-01-29 14:34:00 Checking for update using Github
+2025-01-29 14:34:01 Success.
+2025-01-29 14:34:01 Latest version is 1.7.7
+2025-01-29 14:34:01 App is up to date.
+2025-01-29 16:41:24 Checking for update using Github
+2025-01-29 16:41:25 Success.
+2025-01-29 16:41:25 Latest version is 1.7.7
+2025-01-29 16:41:25 App is up to date.
+2025-01-30 13:19:53 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-30 13:19:54 Checking for update using Github
+2025-01-30 13:19:54 Success.
+2025-01-30 13:19:54 Latest version is 1.7.7
+2025-01-30 13:19:54 App is up to date.
+2025-01-30 14:32:45 Checking for update using Github
+2025-01-30 14:32:46 Success.
+2025-01-30 14:32:46 Latest version is 1.7.7
+2025-01-30 14:32:46 App is up to date.
+2025-01-30 19:08:52 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-01-30 19:08:53 Checking for update using Github
+2025-01-30 19:08:54 Success.
+2025-01-30 19:08:54 Latest version is 1.8.3
+2025-01-30 19:08:54 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.3/obsidian-1.8.3.asar.gz
+2025-01-30 19:09:19 Verifying hash & signature. Size= 8123758
+2025-01-30 19:09:19 Saving file
+2025-01-30 19:09:19 Update complete.
+2025-01-31 14:08:31 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.3.asar
+2025-01-31 14:08:31 Checking for update using Github
+2025-01-31 14:08:32 Success.
+2025-01-31 14:08:32 Latest version is 1.8.3
+2025-01-31 14:08:32 App is up to date.
+2025-01-31 17:24:42 Checking for update using Github
+2025-01-31 17:24:42 Success.
+2025-01-31 17:24:42 Latest version is 1.8.4
+2025-01-31 17:24:42 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.4/obsidian-1.8.4.asar.gz
+2025-01-31 17:25:07 Verifying hash & signature. Size= 8123782
+2025-01-31 17:25:07 Saving file
+2025-01-31 17:25:07 Update complete.
+2025-01-31 19:15:02 Checking for update using Github
+2025-02-04 03:24:55 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-04 03:24:56 Checking for update using Github
+2025-02-04 03:24:56 Success.
+2025-02-04 03:24:56 Latest version is 1.8.4
+2025-02-04 03:24:56 App is up to date.
+2025-02-04 14:04:07 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-04 14:04:08 Checking for update using Github
+2025-02-04 14:04:09 Success.
+2025-02-04 14:04:09 Latest version is 1.8.4
+2025-02-04 14:04:09 App is up to date.
+2025-02-04 16:29:10 Checking for update using Github
+2025-02-04 16:29:12 Success.
+2025-02-04 16:29:12 Latest version is 1.8.4
+2025-02-04 16:29:12 App is up to date.
+2025-02-04 17:42:44 Checking for update using Github
+2025-02-04 17:42:44 Success.
+2025-02-04 17:42:44 Latest version is 1.8.4
+2025-02-04 17:42:44 App is up to date.
+2025-02-05 14:04:09 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-05 14:04:09 Checking for update using Github
+2025-02-05 14:04:10 Success.
+2025-02-05 14:04:10 Latest version is 1.8.4
+2025-02-05 14:04:10 App is up to date.
+2025-02-05 16:16:17 Checking for update using Github
+2025-02-05 16:16:19 Success.
+2025-02-05 16:16:19 Latest version is 1.8.4
+2025-02-05 16:16:19 App is up to date.
+2025-02-05 17:24:09 Checking for update using Github
+2025-02-05 17:24:09 Success.
+2025-02-05 17:24:09 Latest version is 1.8.4
+2025-02-05 17:24:09 App is up to date.
+2025-02-05 17:31:54 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-05 17:31:54 Checking for update using Github
+2025-02-05 17:31:56 Success.
+2025-02-05 17:31:56 Latest version is 1.8.4
+2025-02-05 17:31:56 App is up to date.
+2025-02-05 17:32:27 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-05 17:32:27 Checking for update using Github
+2025-02-05 17:32:28 Success.
+2025-02-05 17:32:28 Latest version is 1.8.4
+2025-02-05 17:32:28 App is up to date.
+2025-02-05 18:55:58 Checking for update using Github
+2025-02-05 18:55:59 Success.
+2025-02-05 18:55:59 Latest version is 1.8.4
+2025-02-05 18:55:59 App is up to date.
+2025-02-06 13:49:03 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-06 13:49:03 Checking for update using Github
+2025-02-06 13:49:04 Success.
+2025-02-06 13:49:04 Latest version is 1.8.4
+2025-02-06 13:49:04 App is up to date.
+2025-02-06 14:08:14 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-06 14:08:14 Checking for update using Github
+2025-02-06 14:08:28 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-06 14:08:28 Checking for update using Github
+2025-02-06 16:13:09 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-06 16:13:10 Checking for update using Github
+2025-02-06 16:13:14 Success.
+2025-02-06 16:13:14 Latest version is 1.8.4
+2025-02-06 16:13:14 App is up to date.
+2025-02-06 17:22:55 Checking for update using Github
+2025-02-06 17:22:56 Success.
+2025-02-06 17:22:56 Latest version is 1.8.4
+2025-02-06 17:22:56 App is up to date.
+2025-02-06 19:27:15 Checking for update using Github
+2025-02-06 19:27:21 Success.
+2025-02-06 19:27:21 Latest version is 1.8.4
+2025-02-06 19:27:21 App is up to date.
+2025-02-07 16:13:30 Checking for update using Github
+2025-02-07 16:13:31 Success.
+2025-02-07 16:13:31 Latest version is 1.8.4
+2025-02-07 16:13:31 App is up to date.
+2025-02-07 17:36:08 Checking for update using Github
+2025-02-07 17:36:09 Success.
+2025-02-07 17:36:09 Latest version is 1.8.4
+2025-02-07 17:36:09 App is up to date.
+2025-02-07 20:12:27 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-07 20:12:27 Checking for update using Github
+2025-02-07 20:12:28 Success.
+2025-02-07 20:12:28 Latest version is 1.8.4
+2025-02-07 20:12:28 App is up to date.
+2025-02-09 15:35:53 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-09 15:35:54 Checking for update using Github
+2025-02-09 15:35:55 Success.
+2025-02-09 15:35:55 Latest version is 1.8.4
+2025-02-09 15:35:55 App is up to date.
+2025-02-09 16:57:57 Checking for update using Github
+2025-02-10 14:08:18 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-10 14:08:19 Checking for update using Github
+2025-02-10 14:08:19 Success.
+2025-02-10 14:08:19 Latest version is 1.8.4
+2025-02-10 14:08:19 App is up to date.
+2025-02-10 16:41:29 Checking for update using Github
+2025-02-10 16:41:50 Success.
+2025-02-10 16:41:50 Latest version is 1.8.4
+2025-02-10 16:41:50 App is up to date.
+2025-02-10 17:44:16 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-10 17:44:16 Checking for update using Github
+2025-02-10 17:44:17 Success.
+2025-02-10 17:44:17 Latest version is 1.8.4
+2025-02-10 17:44:17 App is up to date.
+2025-02-10 19:14:55 Checking for update using Github
+2025-02-10 19:15:01 Success.
+2025-02-10 19:15:01 Latest version is 1.8.4
+2025-02-10 19:15:01 App is up to date.
+2025-02-11 16:19:15 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-11 16:19:16 Checking for update using Github
+2025-02-11 16:19:26 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-11 16:19:26 Checking for update using Github
+2025-02-11 16:19:29 Success.
+2025-02-11 16:19:29 Latest version is 1.8.4
+2025-02-11 16:19:29 App is up to date.
+2025-02-11 17:32:55 Checking for update using Github
+2025-02-11 17:32:56 Success.
+2025-02-11 17:32:56 Latest version is 1.8.4
+2025-02-11 17:32:56 App is up to date.
+2025-02-11 17:46:01 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-11 17:46:02 Checking for update using Github
+2025-02-11 17:46:29 Success.
+2025-02-11 17:46:29 Latest version is 1.8.4
+2025-02-11 17:46:29 App is up to date.
+2025-02-11 18:01:06 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-11 18:01:07 Checking for update using Github
+2025-02-11 18:01:07 Success.
+2025-02-11 18:01:07 Latest version is 1.8.4
+2025-02-11 18:01:07 App is up to date.
+2025-02-11 19:15:59 Loading updated app package /home/dante/.config/obsidian/obsidian-1.8.4.asar
+2025-02-11 19:16:00 Checking for update using Github
+2025-02-11 19:16:01 Success.
+2025-02-11 19:16:01 Latest version is 1.8.4
+2025-02-11 19:16:01 App is up to date.
