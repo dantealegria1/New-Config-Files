@@ -17,10 +17,12 @@ Bell
 Brooks
 C
 C.P.E.U.M
+Caracteristicas
 Clause
 Closure
 Codigo
 Combined
+Comparticion
 Computing
 Demis
 Dennis
@@ -28,6 +30,7 @@ Displays
 Distribution
 Domotica
 Doom
+EDT
 Execution
 Firmware
 Fitness
@@ -37,9 +40,11 @@ Fria
 Holland
 IOS
 ISC
+Implementacion
 Information
 Initation
 Integracion
+Interoperabilidad
 John
 Ken
 Lab
@@ -56,7 +61,11 @@ Migrante
 Mini
 Monitorear
 Multics
+Multiplataforma
 Multiplexed
+Multiproceso
+Multitarea
+Multiusuario
 NetBSD
 Netbook
 Netware
@@ -71,6 +80,7 @@ Programming
 Project
 Ritchie
 S.O
+S.Os
 SAT
 SCJN
 SW
@@ -93,6 +103,7 @@ WM
 Wearables
 Windows
 Workstation
+Workstations
 amerita
 ampliamente
 and
@@ -101,12 +112,14 @@ b
 beto
 biotech
 c
+checklist
 definicion
 desarrolladores
 distributividad
 entregable
 exitosamente
 generacion
+gob
 hardware
 heteronomas
 implementacion
@@ -115,6 +128,9 @@ mail
 medibles
 monitorear
 multi
+multiproceso
+multitarea
+multiusuario
 multiusuarios
 netbook
 notebook
@@ -125,6 +141,8 @@ podia
 portable
 postindustrial
 regulatorias
+republica
+requiridos
 retroalimentacion
 sharing
 tasking
@@ -133,4 +151,6 @@ user
 videojuego
 vs
 windows
-checksum_v1 = ed7297e5879dfdcba8bab295cad58923
+workstations
+x
+checksum_v1 = e4e6bd28bff4d728485a097669c8d8e6

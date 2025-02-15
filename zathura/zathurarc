@@ -1,0 +1,29 @@
+set recolor "true"
+set recolor-keephue "true"
+set default-bg "#1d2021"  # Gruvbox Hard Dark background
+set default-fg "#ebdbb2"  # Gruvbox Light Foreground
+
+set statusbar-bg "#1d2021"
+set statusbar-fg "#ebdbb2"
+
+set inputbar-bg "#1d2021"
+set inputbar-fg "#ebdbb2"
+
+set highlight-color "#fabd2f"  # Gruvbox Yellow
+set highlight-active-color "#d79921"
+
+set completion-bg "#282828"
+set completion-fg "#ebdbb2"
+set completion-group-bg "#3c3836"
+set completion-group-fg "#fabd2f"
+
+set notification-bg "#1d2021"
+set notification-fg "#ebdbb2"
+set notification-warning-bg "#1d2021"
+set notification-warning-fg "#fabd2f"
+set notification-error-bg "#1d2021"
+set notification-error-fg "#fb4934"
+set smooth-scroll true
+set scroll-step 50
+
+

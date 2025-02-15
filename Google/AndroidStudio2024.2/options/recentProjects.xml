@@ -52,24 +52,40 @@
         </entry>
         <entry key="$USER_HOME$/Documentos/8vo-Semestre/Actividad15">
           <value>
-            <RecentProjectMetaInfo frameTitle="Actividad 15 – ~/Documentos/8vo-Semestre/Actividad15/app/src/main/java/com/example/actividad15/MainActivity.java" projectWorkspaceId="2sd7dyONsiymYzcK4xBQf8Aw2Kz">
-              <option name="activationTimestamp" value="1739301581123" />
+            <RecentProjectMetaInfo frameTitle="Actividad 15 – MainActivity.java [Actividad_15.app.main]" projectWorkspaceId="2sd7dyONsiymYzcK4xBQf8Aw2Kz">
+              <option name="activationTimestamp" value="1739463005284" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-242.23726.103.2422.12816248" />
               <option name="buildTimestamp" value="1734485580000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
-              <frame x="12" y="70" width="2136" height="1358" />
+              <frame x="12" y="70" width="2136" height="672" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1739301470953" />
+              <option name="projectOpenTimestamp" value="1739385544569" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documentos/7mo-Semestre/Aplicacion3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Aplicacion3 – MainActivity.java [Aplicacion3.app.main]" projectWorkspaceId="2sx5tPq9N7wgVnqfL10SFrHt0Nc">
+              <option name="activationTimestamp" value="1739459751810" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.23726.103.2422.12816248" />
+              <option name="buildTimestamp" value="1734485580000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1087" y="70" width="1061" height="1358" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1739459725912" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/Documentos/8vo-Semestre/Actividad_1">
           <value>
-            <RecentProjectMetaInfo frameTitle="Actividad_1 – ~/Documentos/8vo-Semestre/Actividad_1/app/src/main/java/com/example/actividad_1/MainActivity.java" opened="true" projectWorkspaceId="2sM0N2yO1OBbCNvys2bLhc3siGv">
-              <option name="activationTimestamp" value="1739301787967" />
+            <RecentProjectMetaInfo frameTitle="Actividad_1 – MainActivity.java [Actividad_1.app.main]" opened="true" projectWorkspaceId="2sM0N2yO1OBbCNvys2bLhc3siGv">
+              <option name="activationTimestamp" value="1739463007741" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-242.23726.103.2422.12816248" />
               <option name="buildTimestamp" value="1734485580000" />
@@ -78,7 +94,7 @@
               </option>
               <frame x="12" y="70" width="2136" height="1358" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1739301582081" />
+              <option name="projectOpenTimestamp" value="1739459733353" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
